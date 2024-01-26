@@ -1,8 +1,7 @@
 package ruslan;
 
-public class RuslanNewClass {
+public class NewClass {
     public static void main(String[] args) {
-        System.out.println("Hi bro");
+        System.out.println("Hi");
     }
-
 }
