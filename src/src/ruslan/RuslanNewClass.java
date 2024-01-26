@@ -1,6 +1,6 @@
 package ruslan;
 
-public class RuslamNewClass {
+public class RuslanNewClass {
     public static void main(String[] args) {
         System.out.println("Hi Fall");
     }
