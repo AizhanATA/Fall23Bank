@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
-</project>
+<!--<<<<<<< HEAD-->
+<!--&lt;!&ndash;  <component name="ProjectRootManager">&ndash;&gt;-->
+<!--&lt;!&ndash;=======&ndash;&gt;-->
+<!--&lt;!&ndash;  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">&ndash;&gt;-->
+<!--&lt;!&ndash;&gt;>>>>>> fcf0a65 (ForCherryPick)&ndash;&gt;-->
+<!--&lt;!&ndash;    <output url="file://$PROJECT_DIR$/out" />&ndash;&gt;-->
+<!--&lt;!&ndash;  </component>&ndash;&gt;-->
+<!--</project>-->
